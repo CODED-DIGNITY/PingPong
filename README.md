@@ -10,9 +10,9 @@ Included cmakelists if using Clion.
 ## 🎮 Screenshots
 
 <p align="center">
-  <img src="Screenshots/Title Screen.png" width="400">
-  <img src="Screenshots/Gameplay.png" width="400">
-  <img src="Screenshots/Win Screen.png" width="400">
+  <img src="Screenshots/Title Screen.png" width="800">
+  <img src="Screenshots/Gameplay.png" width="800">
+  <img src="Screenshots/Win Screen.png" width="800">
 </p>
 
 ---
