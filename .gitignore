@@ -1,0 +1,16 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Binaries
+*.exe
+*.dll
+*.obj
+*.pdb
+
+# OS junk
+.DS_Store
+Thumbs.db
