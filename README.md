@@ -16,6 +16,21 @@ Included cmakelists if using Clion.
 </p>
 
 ---
+## ⚙️ Customizable Parameters
+
+You can tweak these constants in the code to adjust gameplay:
+
+- **Paddle Width**
+- **Paddle Length**
+- **Paddle Speed**
+- **Paddle Border (distance from screen edge)**
+
+- **Ball Radius**
+- **Ball Starting Speed**
+- **Ball Bounce Factor (max)**
+- **Ball Speed Multiplier**
+
+- **Winning Score**
 
 ## 🕹️ Controls
 - **W / S** → Move left paddle  
