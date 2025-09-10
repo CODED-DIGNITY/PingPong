@@ -18,7 +18,7 @@ Included cmakelists if using Clion.
 ---
 ## ⚙️ Customizable Parameters
 
-You can tweak these constants in the code to adjust gameplay:
+You can tweak these variables in the code to adjust gameplay:
 
 - **Paddle Width**
 - **Paddle Length**
